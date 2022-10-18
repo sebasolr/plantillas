@@ -1,0 +1,20 @@
+[
+   {
+      "title": "Control Xbox",
+      "price": "60",
+      "thumbnail": "https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/controller-256.png",
+      "id": 5
+   },
+   {
+      "title": "Control Xbox",
+      "price": "60",
+      "thumbnail": "https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/controller-256.png",
+      "id": 6
+   },
+   {
+      "title": "pc gamer",
+      "price": "1200",
+      "thumbnail": "https://cdn1.iconfinder.com/data/icons/bootstrap-vol-4/16/pc-display-horizontal-256.png",
+      "id": 7
+   }
+]
